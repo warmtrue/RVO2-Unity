@@ -5,6 +5,8 @@ use rvo2 (Optimal Reciprocal Collision Avoidance) in unity.
 
 https://github.com/snape/RVO2-CS
 
+![screenshot](http://oi9iyrpv0.bkt.clouddn.com/2.gif)
+
 ## Feature
 * add dynamic add/del agent in runtime.
 * add ObstacleCollect to convert BoxCollider to RVO Obstacle
